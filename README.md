@@ -61,7 +61,19 @@ graph TD
     F --> H[Text Output 📝]
 ```
 
-# File Tree: SignSense-App-Prototype
+---
+
+## 📸 Screenshots  
+
+<p align="center">
+  <!-- Replace these image paths with your actual project screenshots -->
+  <img src="Images/ss1.png" alt="Home Page" width="45%"/>
+  <img src="Images/ss2.png" alt="Sign Detection" width="45%"/>
+</p>
+
+---
+
+## File Tree: SignSense-App-Prototype
 
 ```
 ├── 📁 gestures/
@@ -131,21 +143,6 @@ graph TD
 ├── 🐍 app1.py
 └── 📄 gesture_db.json
 ```
-
----
-
-## 📸 Screenshots  
-
-<p align="center">
-  <!-- Replace these image paths with your actual project screenshots -->
-  <img src="images/ss1.png" alt="Home Page" width="45%"/>
-  <img src="images/ss2.png" alt="Sign Detection" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot3.png" alt="Translation Output" width="45%"/>
-  <img src="assets/screenshot4.png" alt="Dashboard" width="45%"/>
-</p> 
 
 ---
 
