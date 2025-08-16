@@ -1,6 +1,6 @@
 # 🧏‍♂️ SignSense – Webcam-based Sign Language Translator  
 
-![GitHub license](https://img.shields.io/github/license/your-username/SignSense?style=flat-square&color=blue)   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
+![GitHub license](https://img.shields.io/github/license/dineshit27/SignSense?style=flat-square&color=blue)   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
 
 ---
 
