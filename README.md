@@ -83,7 +83,7 @@ graph TD
 
   <!-- Project Video -->
   <a href="Videos/Doctor_Speech.mp4" target="blank">
-    <img src="https://img.shields.io/badge/🎬%20Demo%20Video-Watch-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-Watch-red?style=for-the-badge"/>
   </a>
 </p>
 
