@@ -73,6 +73,22 @@ graph TD
 
 ---
 
+## 📂 Resources  
+
+<p align="center">
+  <!-- PPT Download -->
+  <a href="PPTs/SIGN SENSE PPT (1).pptx" target="_blank">
+    <img src="https://img.shields.io/badge/📑%20Project%20PPT-Download-blue?style=for-the-badge"/>
+  </a>
+
+  <!-- Demo Video -->
+  <a href="Videos/Doctor_Speech.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Demo%20Video-Watch-red?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 ## File Tree: SignSense-App-Prototype
 
 ```
