@@ -93,68 +93,8 @@ graph TD
 
 ```
 ├── 📁 gestures/
-│   ├── 📁 one/
-│   │   ├── 🖼️ 196073a5.jpg
-│   │   ├── 🖼️ 1eb6be14.jpg
-│   │   ├── 🖼️ 25bd5a12.jpg
-│   │   ├── 🖼️ 3df8c707.jpg
-│   │   ├── 🖼️ 3fc0e085.jpg
-│   │   ├── 🖼️ 41213d02.jpg
-│   │   ├── 🖼️ 4a6dc938.jpg
-│   │   ├── 🖼️ 4df7a39c.jpg
-│   │   ├── 🖼️ 586eeaf9.jpg
-│   │   ├── 🖼️ 65853e6a.jpg
-│   │   ├── 🖼️ 66c03a14.jpg
-│   │   ├── 🖼️ 69979d9f.jpg
-│   │   ├── 🖼️ 6ee9e0ee.jpg
-│   │   ├── 🖼️ 75e9ec3a.jpg
-│   │   ├── 🖼️ 8ba1519e.jpg
-│   │   ├── 🖼️ 9741be9e.jpg
-│   │   ├── 🖼️ 9830875d.jpg
-│   │   ├── 🖼️ 986ba059.jpg
-│   │   ├── 🖼️ 998c0cbb.jpg
-│   │   ├── 🖼️ a1cd7543.jpg
-│   │   ├── 🖼️ abdb1cc2.jpg
-│   │   ├── 🖼️ bdec0375.jpg
-│   │   ├── 🖼️ c7801cdb.jpg
-│   │   ├── 🖼️ cf2295bb.jpg
-│   │   ├── 🖼️ d2630209.jpg
-│   │   ├── 🖼️ e4d85846.jpg
-│   │   ├── 🖼️ ea5e0dbf.jpg
-│   │   ├── 🖼️ ee6c32ef.jpg
-│   │   ├── 🖼️ f217e3e7.jpg
-│   │   └── 🖼️ fb4b7706.jpg
-│   └── 📁 two/
-│       ├── 🖼️ 05a2245f.jpg
-│       ├── 🖼️ 0c378a1a.jpg
-│       ├── 🖼️ 17a9833b.jpg
-│       ├── 🖼️ 1ed0839d.jpg
-│       ├── 🖼️ 26c10a90.jpg
-│       ├── 🖼️ 278bbefe.jpg
-│       ├── 🖼️ 2a339c22.jpg
-│       ├── 🖼️ 2adda6e7.jpg
-│       ├── 🖼️ 2feb6846.jpg
-│       ├── 🖼️ 32de8f05.jpg
-│       ├── 🖼️ 39857017.jpg
-│       ├── 🖼️ 3ba9e90d.jpg
-│       ├── 🖼️ 44d10cc9.jpg
-│       ├── 🖼️ 4a2efa13.jpg
-│       ├── 🖼️ 509dfe2b.jpg
-│       ├── 🖼️ 52a7adeb.jpg
-│       ├── 🖼️ 541af653.jpg
-│       ├── 🖼️ 56f4af74.jpg
-│       ├── 🖼️ 5a836681.jpg
-│       ├── 🖼️ 693879de.jpg
-│       ├── 🖼️ 6a5b8514.jpg
-│       ├── 🖼️ 76ea3a08.jpg
-│       ├── 🖼️ 7d65550c.jpg
-│       ├── 🖼️ 96105f61.jpg
-│       ├── 🖼️ 96d23fe3.jpg
-│       ├── 🖼️ 9745ae87.jpg
-│       ├── 🖼️ 9a298efd.jpg
-│       ├── 🖼️ a9d9e020.jpg
-│       ├── 🖼️ ad74a495.jpg
-│       └── 🖼️ e89be417.jpg
+│   ├── 📁 one
+│   └── 📁 two
 ├── 🐍 app.py
 ├── 🐍 app1.py
 └── 📄 gesture_db.json
